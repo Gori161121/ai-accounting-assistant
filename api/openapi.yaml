@@ -1,0 +1,45 @@
+openapi: 3.0.3
+
+info:
+  title: AI Accounting Assistant API
+  description: API specification for invoices, expenses, reports and financial intelligence.
+  version: 1.0.0
+
+servers:
+  - url: https://api.accounting-assistant.local
+
+paths:
+  /health:
+    get:
+      summary: Health Check
+      responses:
+        '200':
+          description: Service is running
+
+  /invoices:
+    get:
+      summary: Get Invoices
+      responses:
+        '200':
+          description: Invoice list returned
+
+  /expenses:
+    get:
+      summary: Get Expenses
+      responses:
+        '200':
+          description: Expense list returned
+
+  /reports/monthly:
+    get:
+      summary: Monthly Financial Report
+      responses:
+        '200':
+          description: Monthly financial report generated
+
+  /finance/summary:
+    get:
+      summary: Financial Intelligence Summary
+      responses:
+        '200':
+          description: Financial summary returned
