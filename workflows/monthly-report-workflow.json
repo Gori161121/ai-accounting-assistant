@@ -1,0 +1,53 @@
+{
+  "name": "Monthly Financial Report Workflow",
+  "active": false,
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Monthly Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "position": [200, 300]
+    },
+    {
+      "id": "2",
+      "name": "Fetch Invoices",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [450, 300],
+      "parameters": {
+        "url": "http://localhost:8000/invoices",
+        "method": "GET"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Fetch Expenses",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [700, 300],
+      "parameters": {
+        "url": "http://localhost:8000/expenses",
+        "method": "GET"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Generate Finance Summary",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [950, 300],
+      "parameters": {
+        "url": "http://localhost:8000/finance/summary",
+        "method": "GET"
+      }
+    }
+  ],
+  "connections": {
+    "Monthly Trigger": {
+      "main": [[{ "node": "Fetch Invoices", "type": "main" }]]
+    },
+    "Fetch Invoices": {
+      "main": [[{ "node": "Fetch Expenses", "type": "main" }]]
+    },
+    "Fetch Expenses": {
+      "main": [[{ "node": "Generate Finance Summary", "type": "main" }]]
+    }
+  }
+}
