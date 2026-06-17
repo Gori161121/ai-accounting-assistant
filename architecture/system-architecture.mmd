@@ -1,0 +1,17 @@
+flowchart LR
+
+FinancialData --> CollectionLayer
+CollectionLayer --> FinancialDatabase
+FinancialDatabase --> AutomationLayer
+AutomationLayer --> AIFinanceEngine
+AIFinanceEngine --> FinancialAnalytics
+FinancialAnalytics --> BusinessDecisions
+
+FinancialDatabase --> PostgreSQL
+FinancialDatabase --> Supabase
+AutomationLayer --> n8n
+AutomationLayer --> Make
+AIFinanceEngine --> OpenAI
+AIFinanceEngine --> Claude
+FinancialAnalytics --> PowerBI
+FinancialAnalytics --> Tableau
