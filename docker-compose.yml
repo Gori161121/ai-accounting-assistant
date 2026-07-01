@@ -1,0 +1,10 @@
+services:
+  api:
+    build: .
+    container_name: accounting-intelligence-api
+    environment:
+      # OPENAI_API_KEY: set to enable AI-generated executive summaries (optional)
+      PYTHONPATH: /app
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
