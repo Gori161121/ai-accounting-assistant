@@ -1,45 +1,121 @@
 openapi: 3.0.3
 
 info:
-  title: AI Accounting Assistant API
-  description: API specification for invoices, expenses, reports and financial intelligence.
-  version: 1.0.0
+  title: Accounting Intelligence Platform API
+  description: >
+    Financial intelligence for small and medium businesses. Unifies invoices,
+    transactions, expenses and payroll and exposes each intelligence service as
+    an endpoint, plus a combined executive report with an AI summary.
+  version: 0.2.0
 
 servers:
-  - url: https://api.accounting-assistant.local
+  - url: http://localhost:8000
 
 paths:
   /health:
     get:
-      summary: Health Check
+      summary: Health check
       responses:
-        '200':
-          description: Service is running
+        "200": { description: Service is running }
 
   /invoices:
     get:
-      summary: Get Invoices
+      summary: Raw invoices
       responses:
-        '200':
-          description: Invoice list returned
+        "200": { description: Invoice list }
+
+  /transactions:
+    get:
+      summary: Raw bank transactions
+      responses:
+        "200": { description: Transaction list }
 
   /expenses:
     get:
-      summary: Get Expenses
+      summary: Raw expenses
       responses:
-        '200':
-          description: Expense list returned
+        "200": { description: Expense list }
 
-  /reports/monthly:
+  /payroll:
     get:
-      summary: Monthly Financial Report
+      summary: Raw payroll records
       responses:
-        '200':
-          description: Monthly financial report generated
+        "200": { description: Payroll list }
 
-  /finance/summary:
+  /intelligence/categorization:
     get:
-      summary: Financial Intelligence Summary
+      summary: Transaction categorization summary
       responses:
-        '200':
-          description: Financial summary returned
+        "200": { description: Category counts }
+
+  /intelligence/cash-flow:
+    get:
+      summary: Cash-flow intelligence (inflow/outflow, runway, risk)
+      responses:
+        "200": { description: Cash-flow summary }
+
+  /intelligence/expenses:
+    get:
+      summary: Expense analytics (by category, trend, fastest growing)
+      responses:
+        "200": { description: Expense breakdown }
+
+  /intelligence/revenue:
+    get:
+      summary: Revenue analytics (monthly, growth, top customers)
+      responses:
+        "200": { description: Revenue summary }
+
+  /intelligence/profitability:
+    get:
+      summary: Profitability analysis (revenue vs cost, margin)
+      responses:
+        "200": { description: Profitability summary }
+
+  /intelligence/customer-profitability:
+    get:
+      summary: Profit ranked by customer
+      responses:
+        "200": { description: Customer profitability }
+
+  /intelligence/supplier-costs:
+    get:
+      summary: Supplier spend and cost-increase detection
+      responses:
+        "200": { description: Supplier cost intelligence }
+
+  /intelligence/invoice-risk:
+    get:
+      summary: Overdue invoices, DSO and late-payment analysis
+      responses:
+        "200": { description: Receivables risk }
+
+  /intelligence/tax-estimate:
+    get:
+      summary: VAT and income-tax estimate
+      responses:
+        "200": { description: Tax estimate }
+
+  /intelligence/forecast:
+    get:
+      summary: Cash-flow forecast (linear trend)
+      responses:
+        "200": { description: Forecast }
+
+  /intelligence/financial-health:
+    get:
+      summary: Composite financial health score
+      responses:
+        "200": { description: Health score }
+
+  /kpis:
+    get:
+      summary: Headline KPIs
+      responses:
+        "200": { description: KPI set }
+
+  /reports/executive:
+    get:
+      summary: Combined executive report with AI summary
+      responses:
+        "200": { description: Executive report }
