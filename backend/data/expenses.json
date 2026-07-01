@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "date": "2026-01-20",
+    "category": "Rent",
+    "amount": 3500.0,
+    "supplier": "City Offices Ltd"
+  },
+  {
+    "id": 2,
+    "date": "2026-01-13",
+    "category": "Software & SaaS",
+    "amount": 1092.49,
+    "supplier": "Adobe"
+  },
+  {
+    "id": 3,
+    "date": "2026-01-04",
+    "category": "Marketing",
+    "amount": 1838.29,
+    "supplier": "SEO Agency"
+  },
+  {
+    "id": 4,
+    "date": "2026-01-08",
+    "category": "Utilities",
+    "amount": 1081.21,
+    "supplier": "Telco"
+  },
+  {
+    "id": 5,
+    "date": "2026-01-15",
+    "category": "Travel",
+    "amount": 969.08,
+    "supplier": "StayInn"
+  },
+  {
+    "id": 6,
+    "date": "2026-01-20",
+    "category": "Office Supplies",
+    "amount": 1432.43,
+    "supplier": "PaperCo"
+  },
+  {
+    "id": 7,
+    "date": "2026-01-11",
+    "category": "Professional Services",
+    "amount": 1673.68,
+    "supplier": "AuditFirm"
+  },
+  {
+    "id": 8,
+    "date": "2026-01-24",
+    "category": "Bank Fees",
+    "amount": 559.9,
+    "supplier": "First National Bank"
+  },
+  {
+    "id": 9,
+    "date": "2026-02-23",
+    "category": "Rent",
+    "amount": 3500.0,
+    "supplier": "City Offices Ltd"
+  },
+  {
+    "id": 10,
+    "date": "2026-02-13",
+    "category": "Software & SaaS",
+    "amount": 722.56,
+    "supplier": "Microsoft"
+  },
+  {
+    "id": 11,
+    "date": "2026-02-17",
+    "category": "Marketing",
+    "amount": 2089.51,
+    "supplier": "Google Ads"
+  },
+  {
+    "id": 12,
+    "date": "2026-02-06",
+    "category": "Utilities",
+    "amount": 247.27,
+    "supplier": "AquaCorp"
+  },
+  {
+    "id": 13,
+    "date": "2026-02-14",
+    "category": "Travel",
+    "amount": 1368.3,
+    "supplier": "CityCabs"
+  },
+  {
+    "id": 14,
+    "date": "2026-02-04",
+    "category": "Office Supplies",
+    "amount": 1662.75,
+    "supplier": "PaperCo"
+  },
+  {
+    "id": 15,
+    "date": "2026-02-19",
+    "category": "Professional Services",
+    "amount": 424.5,
+    "supplier": "AuditFirm"
+  },
+  {
+    "id": 16,
+    "date": "2026-02-28",
+    "category": "Bank Fees",
+    "amount": 608.43,
+    "supplier": "First National Bank"
+  },
+  {
+    "id": 17,
+    "date": "2026-03-19",
+    "category": "Rent",
+    "amount": 3500.0,
+    "supplier": "City Offices Ltd"
+  },
+  {
+    "id": 18,
+    "date": "2026-03-21",
+    "category": "Software & SaaS",
+    "amount": 317.42,
+    "supplier": "AWS"
+  },
+  {
+    "id": 19,
+    "date": "2026-03-21",
+    "category": "Marketing",
+    "amount": 1776.06,
+    "supplier": "Google Ads"
+  },
+  {
+    "id": 20,
+    "date": "2026-03-10",
+    "category": "Utilities",
+    "amount": 770.78,
+    "supplier": "Telco"
+  },
+  {
+    "id": 21,
+    "date": "2026-03-13",
+    "category": "Travel",
+    "amount": 1726.52,
+    "supplier": "StayInn"
+  },
+  {
+    "id": 22,
+    "date": "2026-03-17",
+    "category": "Office Supplies",
+    "amount": 932.35,
+    "supplier": "OfficeMart"
+  },
+  {
+    "id": 23,
+    "date": "2026-03-17",
+    "category": "Professional Services",
+    "amount": 1788.62,
+    "supplier": "AuditFirm"
+  },
+  {
+    "id": 24,
+    "date": "2026-03-06",
+    "category": "Bank Fees",
+    "amount": 948.33,
+    "supplier": "First National Bank"
+  },
+  {
+    "id": 25,
+    "date": "2026-04-13",
+    "category": "Rent",
+    "amount": 3500.0,
+    "supplier": "City Offices Ltd"
+  },
+  {
+    "id": 26,
+    "date": "2026-04-09",
+    "category": "Software & SaaS",
+    "amount": 282.89,
+    "supplier": "Atlassian"
+  },
+  {
+    "id": 27,
+    "date": "2026-04-08",
+    "category": "Marketing",
+    "amount": 3272.86,
+    "supplier": "Meta Ads"
+  },
+  {
+    "id": 28,
+    "date": "2026-04-28",
+    "category": "Utilities",
+    "amount": 946.38,
+    "supplier": "Telco"
+  },
+  {
+    "id": 29,
+    "date": "2026-04-13",
+    "category": "Travel",
+    "amount": 153.15,
+    "supplier": "StayInn"
+  },
+  {
+    "id": 30,
+    "date": "2026-04-28",
+    "category": "Office Supplies",
+    "amount": 1469.41,
+    "supplier": "OfficeMart"
+  },
+  {
+    "id": 31,
+    "date": "2026-04-27",
+    "category": "Professional Services",
+    "amount": 1239.97,
+    "supplier": "AuditFirm"
+  },
+  {
+    "id": 32,
+    "date": "2026-04-17",
+    "category": "Bank Fees",
+    "amount": 1323.96,
+    "supplier": "First National Bank"
+  },
+  {
+    "id": 33,
+    "date": "2026-05-19",
+    "category": "Rent",
+    "amount": 3500.0,
+    "supplier": "City Offices Ltd"
+  },
+  {
+    "id": 34,
+    "date": "2026-05-03",
+    "category": "Software & SaaS",
+    "amount": 841.37,
+    "supplier": "Adobe"
+  },
+  {
+    "id": 35,
+    "date": "2026-05-16",
+    "category": "Marketing",
+    "amount": 4912.31,
+    "supplier": "Meta Ads"
+  },
+  {
+    "id": 36,
+    "date": "2026-05-15",
+    "category": "Utilities",
+    "amount": 1243.08,
+    "supplier": "Telco"
+  },
+  {
+    "id": 37,
+    "date": "2026-05-06",
+    "category": "Travel",
+    "amount": 1514.78,
+    "supplier": "StayInn"
+  },
+  {
+    "id": 38,
+    "date": "2026-05-16",
+    "category": "Office Supplies",
+    "amount": 1027.51,
+    "supplier": "OfficeMart"
+  },
+  {
+    "id": 39,
+    "date": "2026-05-26",
+    "category": "Professional Services",
+    "amount": 1431.24,
+    "supplier": "LegalPartners"
+  },
+  {
+    "id": 40,
+    "date": "2026-05-06",
+    "category": "Bank Fees",
+    "amount": 1468.63,
+    "supplier": "First National Bank"
+  },
+  {
+    "id": 41,
+    "date": "2026-06-06",
+    "category": "Rent",
+    "amount": 3500.0,
+    "supplier": "City Offices Ltd"
+  },
+  {
+    "id": 42,
+    "date": "2026-06-16",
+    "category": "Software & SaaS",
+    "amount": 567.63,
+    "supplier": "Adobe"
+  },
+  {
+    "id": 43,
+    "date": "2026-06-14",
+    "category": "Marketing",
+    "amount": 2781.98,
+    "supplier": "Google Ads"
+  },
+  {
+    "id": 44,
+    "date": "2026-06-23",
+    "category": "Utilities",
+    "amount": 1610.14,
+    "supplier": "PowerGrid"
+  },
+  {
+    "id": 45,
+    "date": "2026-06-24",
+    "category": "Travel",
+    "amount": 1523.53,
+    "supplier": "SkyLine Air"
+  },
+  {
+    "id": 46,
+    "date": "2026-06-12",
+    "category": "Office Supplies",
+    "amount": 862.01,
+    "supplier": "PaperCo"
+  },
+  {
+    "id": 47,
+    "date": "2026-06-12",
+    "category": "Professional Services",
+    "amount": 845.11,
+    "supplier": "AuditFirm"
+  },
+  {
+    "id": 48,
+    "date": "2026-06-02",
+    "category": "Bank Fees",
+    "amount": 302.12,
+    "supplier": "First National Bank"
+  }
+]

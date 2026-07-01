@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "customer": "Globex Corp",
+    "amount": 4363.42,
+    "currency": "USD",
+    "issue_date": "2026-01-13",
+    "due_date": "2026-02-12",
+    "paid_date": "2026-02-02",
+    "status": "paid"
+  },
+  {
+    "id": 2,
+    "customer": "Initech",
+    "amount": 3993.94,
+    "currency": "USD",
+    "issue_date": "2026-01-12",
+    "due_date": "2026-02-11",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "customer": "Globex Corp",
+    "amount": 1300.13,
+    "currency": "USD",
+    "issue_date": "2026-01-02",
+    "due_date": "2026-02-01",
+    "paid_date": "2026-01-12",
+    "status": "paid"
+  },
+  {
+    "id": 4,
+    "customer": "Initech",
+    "amount": 3135.82,
+    "currency": "USD",
+    "issue_date": "2026-01-18",
+    "due_date": "2026-02-17",
+    "paid_date": "2026-02-21",
+    "status": "paid"
+  },
+  {
+    "id": 5,
+    "customer": "Acme Retail",
+    "amount": 4236.0,
+    "currency": "USD",
+    "issue_date": "2026-01-21",
+    "due_date": "2026-02-20",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "customer": "Soylent Co",
+    "amount": 6127.27,
+    "currency": "USD",
+    "issue_date": "2026-01-02",
+    "due_date": "2026-02-01",
+    "paid_date": "2026-01-09",
+    "status": "paid"
+  },
+  {
+    "id": 7,
+    "customer": "Umbrella Inc",
+    "amount": 1616.27,
+    "currency": "USD",
+    "issue_date": "2026-01-14",
+    "due_date": "2026-02-13",
+    "paid_date": "2026-01-26",
+    "status": "paid"
+  },
+  {
+    "id": 8,
+    "customer": "Soylent Co",
+    "amount": 3609.13,
+    "currency": "USD",
+    "issue_date": "2026-02-17",
+    "due_date": "2026-03-19",
+    "paid_date": "2026-03-06",
+    "status": "paid"
+  },
+  {
+    "id": 9,
+    "customer": "Umbrella Inc",
+    "amount": 6306.72,
+    "currency": "USD",
+    "issue_date": "2026-02-20",
+    "due_date": "2026-03-22",
+    "paid_date": "2026-03-08",
+    "status": "paid"
+  },
+  {
+    "id": 10,
+    "customer": "Acme Retail",
+    "amount": 2757.9,
+    "currency": "USD",
+    "issue_date": "2026-02-25",
+    "due_date": "2026-03-27",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "customer": "Hooli",
+    "amount": 6205.75,
+    "currency": "USD",
+    "issue_date": "2026-02-02",
+    "due_date": "2026-03-04",
+    "paid_date": "2026-02-22",
+    "status": "paid"
+  },
+  {
+    "id": 12,
+    "customer": "Stark Industries",
+    "amount": 4722.4,
+    "currency": "USD",
+    "issue_date": "2026-02-11",
+    "due_date": "2026-03-13",
+    "paid_date": "2026-03-04",
+    "status": "paid"
+  },
+  {
+    "id": 13,
+    "customer": "Stark Industries",
+    "amount": 5526.98,
+    "currency": "USD",
+    "issue_date": "2026-02-03",
+    "due_date": "2026-03-05",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 14,
+    "customer": "Soylent Co",
+    "amount": 4549.2,
+    "currency": "USD",
+    "issue_date": "2026-02-23",
+    "due_date": "2026-03-25",
+    "paid_date": "2026-03-20",
+    "status": "paid"
+  },
+  {
+    "id": 15,
+    "customer": "Soylent Co",
+    "amount": 4069.77,
+    "currency": "USD",
+    "issue_date": "2026-02-21",
+    "due_date": "2026-03-23",
+    "paid_date": "2026-03-10",
+    "status": "paid"
+  },
+  {
+    "id": 16,
+    "customer": "Umbrella Inc",
+    "amount": 4924.72,
+    "currency": "USD",
+    "issue_date": "2026-03-12",
+    "due_date": "2026-04-11",
+    "paid_date": "2026-03-22",
+    "status": "paid"
+  },
+  {
+    "id": 17,
+    "customer": "Northwind Ltd",
+    "amount": 1943.02,
+    "currency": "USD",
+    "issue_date": "2026-03-03",
+    "due_date": "2026-04-02",
+    "paid_date": "2026-03-13",
+    "status": "paid"
+  },
+  {
+    "id": 18,
+    "customer": "Northwind Ltd",
+    "amount": 5798.15,
+    "currency": "USD",
+    "issue_date": "2026-03-16",
+    "due_date": "2026-04-15",
+    "paid_date": "2026-03-28",
+    "status": "paid"
+  },
+  {
+    "id": 19,
+    "customer": "Hooli",
+    "amount": 3371.92,
+    "currency": "USD",
+    "issue_date": "2026-03-05",
+    "due_date": "2026-04-04",
+    "paid_date": "2026-03-26",
+    "status": "paid"
+  },
+  {
+    "id": 20,
+    "customer": "Northwind Ltd",
+    "amount": 4970.46,
+    "currency": "USD",
+    "issue_date": "2026-03-05",
+    "due_date": "2026-04-04",
+    "paid_date": "2026-03-27",
+    "status": "paid"
+  },
+  {
+    "id": 21,
+    "customer": "Acme Retail",
+    "amount": 6201.04,
+    "currency": "USD",
+    "issue_date": "2026-03-15",
+    "due_date": "2026-04-14",
+    "paid_date": "2026-05-02",
+    "status": "paid"
+  },
+  {
+    "id": 22,
+    "customer": "Acme Retail",
+    "amount": 3254.37,
+    "currency": "USD",
+    "issue_date": "2026-03-13",
+    "due_date": "2026-04-12",
+    "paid_date": "2026-04-05",
+    "status": "paid"
+  },
+  {
+    "id": 23,
+    "customer": "Stark Industries",
+    "amount": 2027.74,
+    "currency": "USD",
+    "issue_date": "2026-03-02",
+    "due_date": "2026-04-01",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 24,
+    "customer": "Northwind Ltd",
+    "amount": 1552.79,
+    "currency": "USD",
+    "issue_date": "2026-03-06",
+    "due_date": "2026-04-05",
+    "paid_date": "2026-03-12",
+    "status": "paid"
+  },
+  {
+    "id": 25,
+    "customer": "Initech",
+    "amount": 6039.42,
+    "currency": "USD",
+    "issue_date": "2026-04-16",
+    "due_date": "2026-05-16",
+    "paid_date": "2026-04-19",
+    "status": "paid"
+  },
+  {
+    "id": 26,
+    "customer": "Soylent Co",
+    "amount": 3168.73,
+    "currency": "USD",
+    "issue_date": "2026-04-17",
+    "due_date": "2026-05-17",
+    "paid_date": "2026-04-20",
+    "status": "paid"
+  },
+  {
+    "id": 27,
+    "customer": "Hooli",
+    "amount": 6251.26,
+    "currency": "USD",
+    "issue_date": "2026-04-21",
+    "due_date": "2026-05-21",
+    "paid_date": "2026-05-02",
+    "status": "paid"
+  },
+  {
+    "id": 28,
+    "customer": "Hooli",
+    "amount": 3131.51,
+    "currency": "USD",
+    "issue_date": "2026-04-06",
+    "due_date": "2026-05-06",
+    "paid_date": "2026-04-26",
+    "status": "paid"
+  },
+  {
+    "id": 29,
+    "customer": "Initech",
+    "amount": 2316.25,
+    "currency": "USD",
+    "issue_date": "2026-04-21",
+    "due_date": "2026-05-21",
+    "paid_date": "2026-05-28",
+    "status": "paid"
+  },
+  {
+    "id": 30,
+    "customer": "Stark Industries",
+    "amount": 3408.0,
+    "currency": "USD",
+    "issue_date": "2026-04-27",
+    "due_date": "2026-05-27",
+    "paid_date": "2026-06-03",
+    "status": "paid"
+  },
+  {
+    "id": 31,
+    "customer": "Soylent Co",
+    "amount": 5438.05,
+    "currency": "USD",
+    "issue_date": "2026-04-12",
+    "due_date": "2026-05-12",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 32,
+    "customer": "Stark Industries",
+    "amount": 2538.31,
+    "currency": "USD",
+    "issue_date": "2026-04-16",
+    "due_date": "2026-05-16",
+    "paid_date": "2026-04-30",
+    "status": "paid"
+  },
+  {
+    "id": 33,
+    "customer": "Acme Retail",
+    "amount": 6162.7,
+    "currency": "USD",
+    "issue_date": "2026-05-03",
+    "due_date": "2026-06-02",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 34,
+    "customer": "Umbrella Inc",
+    "amount": 3584.21,
+    "currency": "USD",
+    "issue_date": "2026-05-15",
+    "due_date": "2026-06-14",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 35,
+    "customer": "Stark Industries",
+    "amount": 7403.99,
+    "currency": "USD",
+    "issue_date": "2026-05-06",
+    "due_date": "2026-06-05",
+    "paid_date": "2026-05-27",
+    "status": "paid"
+  },
+  {
+    "id": 36,
+    "customer": "Stark Industries",
+    "amount": 5226.9,
+    "currency": "USD",
+    "issue_date": "2026-05-26",
+    "due_date": "2026-06-25",
+    "paid_date": "2026-06-17",
+    "status": "paid"
+  },
+  {
+    "id": 37,
+    "customer": "Umbrella Inc",
+    "amount": 7044.78,
+    "currency": "USD",
+    "issue_date": "2026-05-22",
+    "due_date": "2026-06-21",
+    "paid_date": "2026-06-11",
+    "status": "paid"
+  },
+  {
+    "id": 38,
+    "customer": "Globex Corp",
+    "amount": 1085.07,
+    "currency": "USD",
+    "issue_date": "2026-05-01",
+    "due_date": "2026-05-31",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 39,
+    "customer": "Initech",
+    "amount": 5831.37,
+    "currency": "USD",
+    "issue_date": "2026-05-17",
+    "due_date": "2026-06-16",
+    "paid_date": "2026-05-26",
+    "status": "paid"
+  },
+  {
+    "id": 40,
+    "customer": "Hooli",
+    "amount": 2618.8,
+    "currency": "USD",
+    "issue_date": "2026-05-01",
+    "due_date": "2026-05-31",
+    "paid_date": "2026-05-11",
+    "status": "paid"
+  },
+  {
+    "id": 41,
+    "customer": "Stark Industries",
+    "amount": 3316.63,
+    "currency": "USD",
+    "issue_date": "2026-06-02",
+    "due_date": "2026-07-02",
+    "paid_date": "2026-06-22",
+    "status": "paid"
+  },
+  {
+    "id": 42,
+    "customer": "Northwind Ltd",
+    "amount": 6430.6,
+    "currency": "USD",
+    "issue_date": "2026-06-26",
+    "due_date": "2026-07-26",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 43,
+    "customer": "Stark Industries",
+    "amount": 2385.74,
+    "currency": "USD",
+    "issue_date": "2026-06-08",
+    "due_date": "2026-07-08",
+    "paid_date": "2026-06-14",
+    "status": "paid"
+  },
+  {
+    "id": 44,
+    "customer": "Globex Corp",
+    "amount": 1256.02,
+    "currency": "USD",
+    "issue_date": "2026-06-18",
+    "due_date": "2026-07-18",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 45,
+    "customer": "Initech",
+    "amount": 3314.09,
+    "currency": "USD",
+    "issue_date": "2026-06-15",
+    "due_date": "2026-07-15",
+    "paid_date": null,
+    "status": "pending"
+  },
+  {
+    "id": 46,
+    "customer": "Stark Industries",
+    "amount": 2979.34,
+    "currency": "USD",
+    "issue_date": "2026-06-23",
+    "due_date": "2026-07-23",
+    "paid_date": "2026-07-21",
+    "status": "paid"
+  },
+  {
+    "id": 47,
+    "customer": "Initech",
+    "amount": 7571.18,
+    "currency": "USD",
+    "issue_date": "2026-06-17",
+    "due_date": "2026-07-17",
+    "paid_date": "2026-06-28",
+    "status": "paid"
+  },
+  {
+    "id": 48,
+    "customer": "Stark Industries",
+    "amount": 4156.77,
+    "currency": "USD",
+    "issue_date": "2026-06-27",
+    "due_date": "2026-07-27",
+    "paid_date": "2026-07-12",
+    "status": "paid"
+  },
+  {
+    "id": 49,
+    "customer": "Initech",
+    "amount": 1564.85,
+    "currency": "USD",
+    "issue_date": "2026-06-11",
+    "due_date": "2026-07-11",
+    "paid_date": "2026-06-16",
+    "status": "paid"
+  },
+  {
+    "id": 50,
+    "customer": "Umbrella Inc",
+    "amount": 3156.26,
+    "currency": "USD",
+    "issue_date": "2026-06-22",
+    "due_date": "2026-07-22",
+    "paid_date": "2026-07-19",
+    "status": "paid"
+  }
+]

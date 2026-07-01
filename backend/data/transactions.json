@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "date": "2026-02-02",
+    "type": "inflow",
+    "amount": 4363.42,
+    "category": "Revenue",
+    "description": "Invoice payment - Globex Corp",
+    "counterparty": "Globex Corp"
+  },
+  {
+    "id": 2,
+    "date": "2026-01-12",
+    "type": "inflow",
+    "amount": 1300.13,
+    "category": "Revenue",
+    "description": "Invoice payment - Globex Corp",
+    "counterparty": "Globex Corp"
+  },
+  {
+    "id": 3,
+    "date": "2026-02-21",
+    "type": "inflow",
+    "amount": 3135.82,
+    "category": "Revenue",
+    "description": "Invoice payment - Initech",
+    "counterparty": "Initech"
+  },
+  {
+    "id": 4,
+    "date": "2026-01-09",
+    "type": "inflow",
+    "amount": 6127.27,
+    "category": "Revenue",
+    "description": "Invoice payment - Soylent Co",
+    "counterparty": "Soylent Co"
+  },
+  {
+    "id": 5,
+    "date": "2026-01-26",
+    "type": "inflow",
+    "amount": 1616.27,
+    "category": "Revenue",
+    "description": "Invoice payment - Umbrella Inc",
+    "counterparty": "Umbrella Inc"
+  },
+  {
+    "id": 6,
+    "date": "2026-01-20",
+    "type": "outflow",
+    "amount": 3500.0,
+    "category": "Rent",
+    "description": "Rent - City Offices Ltd",
+    "counterparty": "City Offices Ltd"
+  },
+  {
+    "id": 7,
+    "date": "2026-01-13",
+    "type": "outflow",
+    "amount": 1092.49,
+    "category": "Software & SaaS",
+    "description": "Software & SaaS - Adobe",
+    "counterparty": "Adobe"
+  },
+  {
+    "id": 8,
+    "date": "2026-01-04",
+    "type": "outflow",
+    "amount": 1838.29,
+    "category": "Marketing",
+    "description": "Marketing - SEO Agency",
+    "counterparty": "SEO Agency"
+  },
+  {
+    "id": 9,
+    "date": "2026-01-08",
+    "type": "outflow",
+    "amount": 1081.21,
+    "category": "Utilities",
+    "description": "Utilities - Telco",
+    "counterparty": "Telco"
+  },
+  {
+    "id": 10,
+    "date": "2026-01-15",
+    "type": "outflow",
+    "amount": 969.08,
+    "category": "Travel",
+    "description": "Travel - StayInn",
+    "counterparty": "StayInn"
+  },
+  {
+    "id": 11,
+    "date": "2026-01-20",
+    "type": "outflow",
+    "amount": 1432.43,
+    "category": "Office Supplies",
+    "description": "Office Supplies - PaperCo",
+    "counterparty": "PaperCo"
+  },
+  {
+    "id": 12,
+    "date": "2026-01-11",
+    "type": "outflow",
+    "amount": 1673.68,
+    "category": "Professional Services",
+    "description": "Professional Services - AuditFirm",
+    "counterparty": "AuditFirm"
+  },
+  {
+    "id": 13,
+    "date": "2026-01-24",
+    "type": "outflow",
+    "amount": 559.9,
+    "category": "Bank Fees",
+    "description": "Bank Fees - First National Bank",
+    "counterparty": "First National Bank"
+  },
+  {
+    "id": 14,
+    "date": "2026-01-28",
+    "type": "outflow",
+    "amount": 24834.14,
+    "category": "Payroll",
+    "description": "Monthly payroll",
+    "counterparty": "Employees"
+  },
+  {
+    "id": 15,
+    "date": "2026-03-06",
+    "type": "inflow",
+    "amount": 3609.13,
+    "category": "Revenue",
+    "description": "Invoice payment - Soylent Co",
+    "counterparty": "Soylent Co"
+  },
+  {
+    "id": 16,
+    "date": "2026-03-08",
+    "type": "inflow",
+    "amount": 6306.72,
+    "category": "Revenue",
+    "description": "Invoice payment - Umbrella Inc",
+    "counterparty": "Umbrella Inc"
+  },
+  {
+    "id": 17,
+    "date": "2026-02-22",
+    "type": "inflow",
+    "amount": 6205.75,
+    "category": "Revenue",
+    "description": "Invoice payment - Hooli",
+    "counterparty": "Hooli"
+  },
+  {
+    "id": 18,
+    "date": "2026-03-04",
+    "type": "inflow",
+    "amount": 4722.4,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 19,
+    "date": "2026-03-20",
+    "type": "inflow",
+    "amount": 4549.2,
+    "category": "Revenue",
+    "description": "Invoice payment - Soylent Co",
+    "counterparty": "Soylent Co"
+  },
+  {
+    "id": 20,
+    "date": "2026-03-10",
+    "type": "inflow",
+    "amount": 4069.77,
+    "category": "Revenue",
+    "description": "Invoice payment - Soylent Co",
+    "counterparty": "Soylent Co"
+  },
+  {
+    "id": 21,
+    "date": "2026-02-23",
+    "type": "outflow",
+    "amount": 3500.0,
+    "category": "Rent",
+    "description": "Rent - City Offices Ltd",
+    "counterparty": "City Offices Ltd"
+  },
+  {
+    "id": 22,
+    "date": "2026-02-13",
+    "type": "outflow",
+    "amount": 722.56,
+    "category": "Software & SaaS",
+    "description": "Software & SaaS - Microsoft",
+    "counterparty": "Microsoft"
+  },
+  {
+    "id": 23,
+    "date": "2026-02-17",
+    "type": "outflow",
+    "amount": 2089.51,
+    "category": "Marketing",
+    "description": "Marketing - Google Ads",
+    "counterparty": "Google Ads"
+  },
+  {
+    "id": 24,
+    "date": "2026-02-06",
+    "type": "outflow",
+    "amount": 247.27,
+    "category": "Utilities",
+    "description": "Utilities - AquaCorp",
+    "counterparty": "AquaCorp"
+  },
+  {
+    "id": 25,
+    "date": "2026-02-14",
+    "type": "outflow",
+    "amount": 1368.3,
+    "category": "Travel",
+    "description": "Travel - CityCabs",
+    "counterparty": "CityCabs"
+  },
+  {
+    "id": 26,
+    "date": "2026-02-04",
+    "type": "outflow",
+    "amount": 1662.75,
+    "category": "Office Supplies",
+    "description": "Office Supplies - PaperCo",
+    "counterparty": "PaperCo"
+  },
+  {
+    "id": 27,
+    "date": "2026-02-19",
+    "type": "outflow",
+    "amount": 424.5,
+    "category": "Professional Services",
+    "description": "Professional Services - AuditFirm",
+    "counterparty": "AuditFirm"
+  },
+  {
+    "id": 28,
+    "date": "2026-02-28",
+    "type": "outflow",
+    "amount": 608.43,
+    "category": "Bank Fees",
+    "description": "Bank Fees - First National Bank",
+    "counterparty": "First National Bank"
+  },
+  {
+    "id": 29,
+    "date": "2026-02-28",
+    "type": "outflow",
+    "amount": 22654.45,
+    "category": "Payroll",
+    "description": "Monthly payroll",
+    "counterparty": "Employees"
+  },
+  {
+    "id": 30,
+    "date": "2026-03-22",
+    "type": "inflow",
+    "amount": 4924.72,
+    "category": "Revenue",
+    "description": "Invoice payment - Umbrella Inc",
+    "counterparty": "Umbrella Inc"
+  },
+  {
+    "id": 31,
+    "date": "2026-03-13",
+    "type": "inflow",
+    "amount": 1943.02,
+    "category": "Revenue",
+    "description": "Invoice payment - Northwind Ltd",
+    "counterparty": "Northwind Ltd"
+  },
+  {
+    "id": 32,
+    "date": "2026-03-28",
+    "type": "inflow",
+    "amount": 5798.15,
+    "category": "Revenue",
+    "description": "Invoice payment - Northwind Ltd",
+    "counterparty": "Northwind Ltd"
+  },
+  {
+    "id": 33,
+    "date": "2026-03-26",
+    "type": "inflow",
+    "amount": 3371.92,
+    "category": "Revenue",
+    "description": "Invoice payment - Hooli",
+    "counterparty": "Hooli"
+  },
+  {
+    "id": 34,
+    "date": "2026-03-27",
+    "type": "inflow",
+    "amount": 4970.46,
+    "category": "Revenue",
+    "description": "Invoice payment - Northwind Ltd",
+    "counterparty": "Northwind Ltd"
+  },
+  {
+    "id": 35,
+    "date": "2026-05-02",
+    "type": "inflow",
+    "amount": 6201.04,
+    "category": "Revenue",
+    "description": "Invoice payment - Acme Retail",
+    "counterparty": "Acme Retail"
+  },
+  {
+    "id": 36,
+    "date": "2026-04-05",
+    "type": "inflow",
+    "amount": 3254.37,
+    "category": "Revenue",
+    "description": "Invoice payment - Acme Retail",
+    "counterparty": "Acme Retail"
+  },
+  {
+    "id": 37,
+    "date": "2026-03-12",
+    "type": "inflow",
+    "amount": 1552.79,
+    "category": "Revenue",
+    "description": "Invoice payment - Northwind Ltd",
+    "counterparty": "Northwind Ltd"
+  },
+  {
+    "id": 38,
+    "date": "2026-03-19",
+    "type": "outflow",
+    "amount": 3500.0,
+    "category": "Rent",
+    "description": "Rent - City Offices Ltd",
+    "counterparty": "City Offices Ltd"
+  },
+  {
+    "id": 39,
+    "date": "2026-03-21",
+    "type": "outflow",
+    "amount": 317.42,
+    "category": "Software & SaaS",
+    "description": "Software & SaaS - AWS",
+    "counterparty": "AWS"
+  },
+  {
+    "id": 40,
+    "date": "2026-03-21",
+    "type": "outflow",
+    "amount": 1776.06,
+    "category": "Marketing",
+    "description": "Marketing - Google Ads",
+    "counterparty": "Google Ads"
+  },
+  {
+    "id": 41,
+    "date": "2026-03-10",
+    "type": "outflow",
+    "amount": 770.78,
+    "category": "Utilities",
+    "description": "Utilities - Telco",
+    "counterparty": "Telco"
+  },
+  {
+    "id": 42,
+    "date": "2026-03-13",
+    "type": "outflow",
+    "amount": 1726.52,
+    "category": "Travel",
+    "description": "Travel - StayInn",
+    "counterparty": "StayInn"
+  },
+  {
+    "id": 43,
+    "date": "2026-03-17",
+    "type": "outflow",
+    "amount": 932.35,
+    "category": "Office Supplies",
+    "description": "Office Supplies - OfficeMart",
+    "counterparty": "OfficeMart"
+  },
+  {
+    "id": 44,
+    "date": "2026-03-17",
+    "type": "outflow",
+    "amount": 1788.62,
+    "category": "Professional Services",
+    "description": "Professional Services - AuditFirm",
+    "counterparty": "AuditFirm"
+  },
+  {
+    "id": 45,
+    "date": "2026-03-06",
+    "type": "outflow",
+    "amount": 948.33,
+    "category": "Bank Fees",
+    "description": "Bank Fees - First National Bank",
+    "counterparty": "First National Bank"
+  },
+  {
+    "id": 46,
+    "date": "2026-03-28",
+    "type": "outflow",
+    "amount": 20605.65,
+    "category": "Payroll",
+    "description": "Monthly payroll",
+    "counterparty": "Employees"
+  },
+  {
+    "id": 47,
+    "date": "2026-04-19",
+    "type": "inflow",
+    "amount": 6039.42,
+    "category": "Revenue",
+    "description": "Invoice payment - Initech",
+    "counterparty": "Initech"
+  },
+  {
+    "id": 48,
+    "date": "2026-04-20",
+    "type": "inflow",
+    "amount": 3168.73,
+    "category": "Revenue",
+    "description": "Invoice payment - Soylent Co",
+    "counterparty": "Soylent Co"
+  },
+  {
+    "id": 49,
+    "date": "2026-05-02",
+    "type": "inflow",
+    "amount": 6251.26,
+    "category": "Revenue",
+    "description": "Invoice payment - Hooli",
+    "counterparty": "Hooli"
+  },
+  {
+    "id": 50,
+    "date": "2026-04-26",
+    "type": "inflow",
+    "amount": 3131.51,
+    "category": "Revenue",
+    "description": "Invoice payment - Hooli",
+    "counterparty": "Hooli"
+  },
+  {
+    "id": 51,
+    "date": "2026-05-28",
+    "type": "inflow",
+    "amount": 2316.25,
+    "category": "Revenue",
+    "description": "Invoice payment - Initech",
+    "counterparty": "Initech"
+  },
+  {
+    "id": 52,
+    "date": "2026-06-03",
+    "type": "inflow",
+    "amount": 3408.0,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 53,
+    "date": "2026-04-30",
+    "type": "inflow",
+    "amount": 2538.31,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 54,
+    "date": "2026-04-13",
+    "type": "outflow",
+    "amount": 3500.0,
+    "category": "Rent",
+    "description": "Rent - City Offices Ltd",
+    "counterparty": "City Offices Ltd"
+  },
+  {
+    "id": 55,
+    "date": "2026-04-09",
+    "type": "outflow",
+    "amount": 282.89,
+    "category": "Software & SaaS",
+    "description": "Software & SaaS - Atlassian",
+    "counterparty": "Atlassian"
+  },
+  {
+    "id": 56,
+    "date": "2026-04-08",
+    "type": "outflow",
+    "amount": 3272.86,
+    "category": "Marketing",
+    "description": "Marketing - Meta Ads",
+    "counterparty": "Meta Ads"
+  },
+  {
+    "id": 57,
+    "date": "2026-04-28",
+    "type": "outflow",
+    "amount": 946.38,
+    "category": "Utilities",
+    "description": "Utilities - Telco",
+    "counterparty": "Telco"
+  },
+  {
+    "id": 58,
+    "date": "2026-04-13",
+    "type": "outflow",
+    "amount": 153.15,
+    "category": "Travel",
+    "description": "Travel - StayInn",
+    "counterparty": "StayInn"
+  },
+  {
+    "id": 59,
+    "date": "2026-04-28",
+    "type": "outflow",
+    "amount": 1469.41,
+    "category": "Office Supplies",
+    "description": "Office Supplies - OfficeMart",
+    "counterparty": "OfficeMart"
+  },
+  {
+    "id": 60,
+    "date": "2026-04-27",
+    "type": "outflow",
+    "amount": 1239.97,
+    "category": "Professional Services",
+    "description": "Professional Services - AuditFirm",
+    "counterparty": "AuditFirm"
+  },
+  {
+    "id": 61,
+    "date": "2026-04-17",
+    "type": "outflow",
+    "amount": 1323.96,
+    "category": "Bank Fees",
+    "description": "Bank Fees - First National Bank",
+    "counterparty": "First National Bank"
+  },
+  {
+    "id": 62,
+    "date": "2026-04-28",
+    "type": "outflow",
+    "amount": 25515.43,
+    "category": "Payroll",
+    "description": "Monthly payroll",
+    "counterparty": "Employees"
+  },
+  {
+    "id": 63,
+    "date": "2026-05-27",
+    "type": "inflow",
+    "amount": 7403.99,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 64,
+    "date": "2026-06-17",
+    "type": "inflow",
+    "amount": 5226.9,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 65,
+    "date": "2026-06-11",
+    "type": "inflow",
+    "amount": 7044.78,
+    "category": "Revenue",
+    "description": "Invoice payment - Umbrella Inc",
+    "counterparty": "Umbrella Inc"
+  },
+  {
+    "id": 66,
+    "date": "2026-05-26",
+    "type": "inflow",
+    "amount": 5831.37,
+    "category": "Revenue",
+    "description": "Invoice payment - Initech",
+    "counterparty": "Initech"
+  },
+  {
+    "id": 67,
+    "date": "2026-05-11",
+    "type": "inflow",
+    "amount": 2618.8,
+    "category": "Revenue",
+    "description": "Invoice payment - Hooli",
+    "counterparty": "Hooli"
+  },
+  {
+    "id": 68,
+    "date": "2026-05-19",
+    "type": "outflow",
+    "amount": 3500.0,
+    "category": "Rent",
+    "description": "Rent - City Offices Ltd",
+    "counterparty": "City Offices Ltd"
+  },
+  {
+    "id": 69,
+    "date": "2026-05-03",
+    "type": "outflow",
+    "amount": 841.37,
+    "category": "Software & SaaS",
+    "description": "Software & SaaS - Adobe",
+    "counterparty": "Adobe"
+  },
+  {
+    "id": 70,
+    "date": "2026-05-16",
+    "type": "outflow",
+    "amount": 4912.31,
+    "category": "Marketing",
+    "description": "Marketing - Meta Ads",
+    "counterparty": "Meta Ads"
+  },
+  {
+    "id": 71,
+    "date": "2026-05-15",
+    "type": "outflow",
+    "amount": 1243.08,
+    "category": "Utilities",
+    "description": "Utilities - Telco",
+    "counterparty": "Telco"
+  },
+  {
+    "id": 72,
+    "date": "2026-05-06",
+    "type": "outflow",
+    "amount": 1514.78,
+    "category": "Travel",
+    "description": "Travel - StayInn",
+    "counterparty": "StayInn"
+  },
+  {
+    "id": 73,
+    "date": "2026-05-16",
+    "type": "outflow",
+    "amount": 1027.51,
+    "category": "Office Supplies",
+    "description": "Office Supplies - OfficeMart",
+    "counterparty": "OfficeMart"
+  },
+  {
+    "id": 74,
+    "date": "2026-05-26",
+    "type": "outflow",
+    "amount": 1431.24,
+    "category": "Professional Services",
+    "description": "Professional Services - LegalPartners",
+    "counterparty": "LegalPartners"
+  },
+  {
+    "id": 75,
+    "date": "2026-05-06",
+    "type": "outflow",
+    "amount": 1468.63,
+    "category": "Bank Fees",
+    "description": "Bank Fees - First National Bank",
+    "counterparty": "First National Bank"
+  },
+  {
+    "id": 76,
+    "date": "2026-05-28",
+    "type": "outflow",
+    "amount": 22922.59,
+    "category": "Payroll",
+    "description": "Monthly payroll",
+    "counterparty": "Employees"
+  },
+  {
+    "id": 77,
+    "date": "2026-06-22",
+    "type": "inflow",
+    "amount": 3316.63,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 78,
+    "date": "2026-06-14",
+    "type": "inflow",
+    "amount": 2385.74,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 79,
+    "date": "2026-07-21",
+    "type": "inflow",
+    "amount": 2979.34,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 80,
+    "date": "2026-06-28",
+    "type": "inflow",
+    "amount": 7571.18,
+    "category": "Revenue",
+    "description": "Invoice payment - Initech",
+    "counterparty": "Initech"
+  },
+  {
+    "id": 81,
+    "date": "2026-07-12",
+    "type": "inflow",
+    "amount": 4156.77,
+    "category": "Revenue",
+    "description": "Invoice payment - Stark Industries",
+    "counterparty": "Stark Industries"
+  },
+  {
+    "id": 82,
+    "date": "2026-06-16",
+    "type": "inflow",
+    "amount": 1564.85,
+    "category": "Revenue",
+    "description": "Invoice payment - Initech",
+    "counterparty": "Initech"
+  },
+  {
+    "id": 83,
+    "date": "2026-07-19",
+    "type": "inflow",
+    "amount": 3156.26,
+    "category": "Revenue",
+    "description": "Invoice payment - Umbrella Inc",
+    "counterparty": "Umbrella Inc"
+  },
+  {
+    "id": 84,
+    "date": "2026-06-06",
+    "type": "outflow",
+    "amount": 3500.0,
+    "category": "Rent",
+    "description": "Rent - City Offices Ltd",
+    "counterparty": "City Offices Ltd"
+  },
+  {
+    "id": 85,
+    "date": "2026-06-16",
+    "type": "outflow",
+    "amount": 567.63,
+    "category": "Software & SaaS",
+    "description": "Software & SaaS - Adobe",
+    "counterparty": "Adobe"
+  },
+  {
+    "id": 86,
+    "date": "2026-06-14",
+    "type": "outflow",
+    "amount": 2781.98,
+    "category": "Marketing",
+    "description": "Marketing - Google Ads",
+    "counterparty": "Google Ads"
+  },
+  {
+    "id": 87,
+    "date": "2026-06-23",
+    "type": "outflow",
+    "amount": 1610.14,
+    "category": "Utilities",
+    "description": "Utilities - PowerGrid",
+    "counterparty": "PowerGrid"
+  },
+  {
+    "id": 88,
+    "date": "2026-06-24",
+    "type": "outflow",
+    "amount": 1523.53,
+    "category": "Travel",
+    "description": "Travel - SkyLine Air",
+    "counterparty": "SkyLine Air"
+  },
+  {
+    "id": 89,
+    "date": "2026-06-12",
+    "type": "outflow",
+    "amount": 862.01,
+    "category": "Office Supplies",
+    "description": "Office Supplies - PaperCo",
+    "counterparty": "PaperCo"
+  },
+  {
+    "id": 90,
+    "date": "2026-06-12",
+    "type": "outflow",
+    "amount": 845.11,
+    "category": "Professional Services",
+    "description": "Professional Services - AuditFirm",
+    "counterparty": "AuditFirm"
+  },
+  {
+    "id": 91,
+    "date": "2026-06-02",
+    "type": "outflow",
+    "amount": 302.12,
+    "category": "Bank Fees",
+    "description": "Bank Fees - First National Bank",
+    "counterparty": "First National Bank"
+  },
+  {
+    "id": 92,
+    "date": "2026-06-28",
+    "type": "outflow",
+    "amount": 22077.0,
+    "category": "Payroll",
+    "description": "Monthly payroll",
+    "counterparty": "Employees"
+  }
+]

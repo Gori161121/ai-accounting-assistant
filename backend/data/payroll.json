@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "month": "2026-01",
+    "employee_count": 8,
+    "gross": 31838.64,
+    "net": 24834.14
+  },
+  {
+    "id": 2,
+    "month": "2026-02",
+    "employee_count": 8,
+    "gross": 29044.17,
+    "net": 22654.45
+  },
+  {
+    "id": 3,
+    "month": "2026-03",
+    "employee_count": 8,
+    "gross": 26417.5,
+    "net": 20605.65
+  },
+  {
+    "id": 4,
+    "month": "2026-04",
+    "employee_count": 8,
+    "gross": 32712.09,
+    "net": 25515.43
+  },
+  {
+    "id": 5,
+    "month": "2026-05",
+    "employee_count": 8,
+    "gross": 29387.94,
+    "net": 22922.59
+  },
+  {
+    "id": 6,
+    "month": "2026-06",
+    "employee_count": 8,
+    "gross": 28303.84,
+    "net": 22077.0
+  }
+]
